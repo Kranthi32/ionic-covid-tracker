@@ -1,0 +1,45 @@
+<ion-content>
+  <ion-header class="ion-no-border">
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-menu-button></ion-menu-button>
+      </ion-buttons>
+      <!-- <ion-buttons slot="end">
+        <ion-button (click)="presentPopover($event)">
+          <ion-icon slot="icon-only" ios="ellipsis-horizontal" md="ellipsis-vertical"></ion-icon>
+        </ion-button>
+      </ion-buttons> -->
+    </ion-toolbar>
+  </ion-header>
+
+  <!-- <ion-grid class="ion-margin">
+    <ion-row>
+      <ion-col>S.No</ion-col>
+      <ion-col>Country</ion-col>
+      <ion-col>Deaths</ion-col>
+      <ion-col>Recovered</ion-col>
+      <ion-col>Total cases</ion-col>
+    </ion-row>
+    <ion-row *ngFor="let group of groups; index as i">
+      <ion-col>{{ i + 1 }}</ion-col>
+      <ion-col>{{ group.country }}</ion-col>
+      <ion-col>{{ group.cases }}</ion-col>
+      <ion-col>{{ group.deaths }}</ion-col>
+      <ion-col>{{ group.country }}</ion-col>
+    </ion-row>
+  </ion-grid> -->
+
+  <ngx-datatable 
+  style="margin-top: 40px;"
+      class="material"
+      [limit]="8" 
+      [rows]="rows" 
+      [rowHeight]="50" 
+      [columns]="columns"
+      [columnMode]="'force'" 
+      [sortType]="'multi'" 
+      [headerHeight]="50" 
+      [footerHeight]="50">
+    </ngx-datatable>
+  
+</ion-content>

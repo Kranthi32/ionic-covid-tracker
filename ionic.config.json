@@ -1,0 +1,8 @@
+{
+  "name": "covid-tracker-app",
+  "type": "angular",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  }
+}
