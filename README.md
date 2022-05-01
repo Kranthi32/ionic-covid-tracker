@@ -45,7 +45,7 @@ See [CONTRIBUTING.md](https://Kranthi32/covid-tracker-app/blob/master/.github/CO
 | -----------------| -----|
 | ![Android About](/resources/screenshots/about.png) | ![iOS About](/resources/screenshots/abouts.png) |
 
-### [Speaker Detail Page](https://github.com/Kranthi32/covid-tracker/app/blob/master/src/app/pages/speaker-detail/speaker-detail.html)
+
 
 | Material Design  | iOS  |
 | -----------------| -----|
