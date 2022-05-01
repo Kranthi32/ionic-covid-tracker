@@ -49,11 +49,11 @@ See [CONTRIBUTING.md](https://Kranthi32/covid-tracker-app/blob/master/.github/CO
 
 | Material Design  | iOS  |
 | -----------------| -----|
-| ![Android About Dark mode Page](/resources/screenshots/darkmode about.png) | ![iOS  About Dark mode Page](/resources/screenshots/darkmode about.png) |
+| ![Android About Dark mode Page](/resources/screenshots/darkmodeabout.png) | ![iOS  About Dark mode Page](/resources/screenshots/darkmodeabout.png) |
 
 | Material Design  | iOS  |
 | -----------------| -----|
-| ![Android Dark Mode Charts](/resources/screenshots/darkmode Charts.png) | ![iOS About](/resources/screenshots/darkmode Charts2.png) |
+| ![Android Dark Mode Charts](/resources/screenshots/darkmodeCharts.png) | ![iOS About](/resources/screenshots/darkmodeCharts2.png) |
 
 | Material Design  | iOS  |
 | -----------------| -----|
